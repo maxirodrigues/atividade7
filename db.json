@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "codigo": "PTG126",
+      "descricao": "Pneu aro 14, radial e 175",
+      "categoria": "Automotivo",
+      "preco": "R$ 300,00",
+      "img": "file:///storage/emulated/0/Android/data/com.atividade7/files/Pictures/b649c772-e7d2-4e00-8a26-816a53d6eba7.jpg",
+      "id": "wrKT-Tr"
+    },
+    {
+      "codigo": "NOTE386",
+      "descricao": "Notebook Samsung TC, core i5, 8 MB de ram, HD SSD 224 GB",
+      "categoria": "Informática",
+      "preco": "R$ 3.500,00",
+      "img": "file:///storage/emulated/0/Android/data/com.atividade7/files/Pictures/80f94529-b59a-4f5f-aaf6-471558dbe408.jpg",
+      "id": "0ColQ2F"
+    },
+    {
+      "codigo": "TV14389",
+      "descricao": "Television 69 \", Smart, função desligamento automático, netflix",
+      "categoria": "TVs e Áudio",
+      "preco": "R$ 2.384,99",
+      "img": "file:///storage/emulated/0/Android/data/com.atividade7/files/Pictures/20622f62-0615-4cdf-8adc-51f57b44a4a5.jpg",
+      "id": "Qnt-amq"
+    }
+  ]
+}
